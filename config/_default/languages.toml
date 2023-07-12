@@ -10,4 +10,5 @@
 # Uncomment the lines below to configure your website in a second language.
 [it]
   languageCode = "it"
+  disabled = true
 #  contentDir = "content/it"

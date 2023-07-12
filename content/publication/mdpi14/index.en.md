@@ -1,0 +1,11 @@
+---
+title: Reconfiguration of optical-NFV network architectures based on cloud resource allocation and QoS degradation cost-aware prediction techniques
+date: 2020-11-04
+publishDate: 2020-11-04
+authors: ["Vincenzo Eramo", "Francesco G. Lavacca", "Tiziana Catena", "Flavio Di Giorgio"]
+publication_types: ["2"]
+abstract: "The high time required for the deployment of cloud resources in Network Function Virtualization network architectures has led to the proposal and investigation of algorithms for predicting traffic or the necessary processing and memory resources. However, it is well known that whatever approach is taken, a prediction error is inevitable. Two types of prediction errors can occur that have a different impact on the increase in network operational costs. In case the predicted values are higher than the real ones, the resource allocation algorithms will allocate more resources than necessary with the consequent introduction of an over-provisioning cost. Conversely, when the predicted values are lower than the real values, the allocation of fewer resources will lead to a degradation of QoS and the introduction of an under-provisioning cost. When over-provisioning and under-provisioning costs are different, most of the prediction algorithms proposed in the literature are not adequate because they are based on minimizing the mean square error or symmetric cost functions. For this reason we propose and investigate a forecasting methodology in which it is introduced an asymmetric cost function capable of weighing the costs of over-provisioning and under-provisioning differently. We have applied the proposed forecasting methodology for resource allocation in a Network Function Virtualization architectures where the Network Function Virtualization Infrastructure Point-of-Presences are interconnected by an elastic optical network. We have verified a cost savings of 40% compared to solutions that provide a minimization of the mean square error"
+featured: true
+publication: IEEE Access
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9247945"
+---

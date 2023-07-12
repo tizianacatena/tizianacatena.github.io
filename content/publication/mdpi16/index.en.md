@@ -1,0 +1,11 @@
+---
+title: Effectiveness of segment routing technology in reducing the bandwidth and cloud resources provisioning times in network function virtualization architectures
+date: 2019-03-12
+publishDate: 2019-03-12
+authors: ["Vincenzo Eramo", "Francesco G. Lavacca", "Tiziana Catena", "Marco Polverini", "Antonio Cianfrani"]
+publication_types: ["2"]
+abstract: "Network Function Virtualization is a new technology allowing for a elastic cloud and bandwidth resource allocation. The technology requires an orchestrator whose role is the service and resource orchestration. It receives service requests, each one characterized by a Service Function Chain, which is a set of service functions to be executed according to a given order. It implements an algorithm for deciding where both to allocate the cloud and bandwidth resources and to route the SFCs. In a traditional orchestration algorithm, the orchestrator has a detailed knowledge of the cloud and network infrastructures and that can lead to high computational complexity of the SFC Routing and Cloud and Bandwidth resource Allocation (SRCBA) algorithm. In this paper, we propose and evaluate the effectiveness of a scalable orchestration architecture inherited by the one proposed within the European Telecommunications Standards Institute (ETSI) and based on the functional separation of an NFV orchestrator in Resource Orchestrator (RO) and Network Service Orchestrator (NSO). Each cloud domain is equipped with an RO whose task is to provide a simple and abstract representation of the cloud infrastructure. These representations are notified of the NSO that can apply a simplified and less complex SRCBA algorithm. In addition, we show how the segment routing technology can help to simplify the SFC routing by means of an effective addressing of the service functions. The scalable orchestration solution has been investigated and compared to the one of a traditional orchestrator in some network scenarios and varying the number of cloud domains. We have verified that the execution time of the SRCBA algorithm can be drastically reduced without degrading the performance in terms of cloud and bandwidth resource costs."
+featured: true
+publication: Future Internet
+url_pdf: "https://www.mdpi.com/1999-5903/11/3/71"
+---

@@ -25,21 +25,21 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Cloud Computing"
-    tag = "cloud-computing"
-  
-  [[content.filter_button]]
-    name = "Security"
-    tag = "security"
-
-  [[content.filter_button]]
-    name = "eBPF/XDP"
-    tag = "ebpf"
-
-  [[content.filter_button]]
-    name = "Linux Kernel"
-    tag = "kernel"
+#  [[content.filter_button]]
+#    name = "Cloud Computing"
+#    tag = "cloud-computing"
+#  
+#  [[content.filter_button]]
+#    name = "Security"
+#    tag = "security"
+#
+#  [[content.filter_button]]
+#    name = "eBPF/XDP"
+#    tag = "ebpf"
+#
+#  [[content.filter_button]]
+#    name = "Linux Kernel"
+#    tag = "kernel"
 
 
 [design]

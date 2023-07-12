@@ -18,42 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Software Developer (Internship)"
-  company = "Yoroi S.r.l."
-  company_url = "https://yoroi.company/"
-  location = "Cesena (IT)"
-  date_start = "2017-11-01"
-  date_end = "2017-12-30"
+  title = "Implementation of an experimental Segment Routing network"
+  company = "Sapienza Università di Roma"
+  company_url = "https://www.uniroma1.it/it/pagina-strutturale/home"
+  location = "Roma (IT)"
+  date_start = "2017-09-01"
+  date_end = "2017-10-30"
   description = """
-  Created an information gatherer system aiming at:
-  * Analysing and parsing security logs
-  * Gathering potential malicious IPs info
-  * Deploying a command line interface tool
+  Occasional performance assignment for carrying out the activity of "Implementation of an experimental Segment Routing network through PC and Linux software to support the Service Function Chaining" as part of the "Cisco (Silicon Valley Foundation)" research project in favor of Department of Information Engineering, Electronics and Telecommunications of the University of Rome "La Sapienza".
   """
 
 [[experience]]
-  title = "Fellow Researcher"
-  company = "Polytechnic of Turin"
-  company_url = "https://www.polito.it/"
-  location = "Turin (IT)"
-  date_start = "2020-07-01"
-  date_end = "2020-08-31"
+  title = "Research Internship"
+  company = "Fondazione Bruno Kessler"
+  company_url = "https://www.fbk.eu/en/"
+  location = "Povo (IT)"
+  date_start = "2021-05-01"
+  date_end = "2020-07-30"
   description = """
-  Worked for prof. [Fulvio Risso](https://fulvio.frisso.net/) in Toshi, a european project.
-  I mainly worked with eBPF, achieving an optimized in-kernel packet analysis for cyber attacks detection.
+  In collaboration with the RiSING department of FBK, an orchestration platform has been implemented to efficiently deploy chains of virtualized security functions, from the mathematical model capable of optimizing the Quality of Service of the required applications, to the real implementation based on Kubernetes virtualization software.
   """
-
-[[experience]]
-  title = "Fellow Researcher (Internship)"
-  company = "IBM Research Europe"
-  company_url = "https://research.ibm.com/labs/ireland"
-  location = "Dublin (Ireland)"
-  date_start = "2023-06-06"
-  date_end = "2023-08-26"
-  description = """
-  Collaborated during my PhD on Federated Learning algorithms and aggregation schemes in
-  case of heterogeneous devices and models in the context of cyber attacks detections.
-  """
-
 
 +++

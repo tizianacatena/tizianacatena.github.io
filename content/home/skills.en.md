@@ -16,10 +16,10 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "network-wired"
+  icon = "signal"
   icon_pack = "fas"
-  name = "Data and Control Plane"
-  description = "Design and Programming (eBPF)"
+  name = "5G NFV ETSI"
+  description = "Design and Integration"
 
 
 [[feature]]
@@ -41,10 +41,10 @@ subtitle = ""
   description = "See, Think, Do"
 
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-  description = "Since 2015"
+  icon = "trophy"
+  icon_pack = "fas"
+  name = "Leadership"
+  description = "Management and Teamwork"
 
 [[feature]]
   icon = "user-friends"
